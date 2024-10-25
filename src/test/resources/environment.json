@@ -1,0 +1,15 @@
+{
+    "environment": "dev",
+    "dev": {
+      "url": "https://demoqa.com",
+      "backend_host": "https://demoqa.com",
+      "email": "tunnse02859@gmail.com",
+      "password": "Nashtech#123"
+    },
+    "test": {
+      "url": "https://demoqa.com/test/login"
+    },
+    "staging": {
+      "url": "https://demoqa.com/staging/login"
+    }
+  }

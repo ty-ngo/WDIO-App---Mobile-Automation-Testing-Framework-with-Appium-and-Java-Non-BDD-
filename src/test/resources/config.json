@@ -1,0 +1,69 @@
+{
+    "driverType": "local",
+    "explicitWait": 15,
+    "implicitWait": 10,
+    "appBundleId": "",
+    "local": {
+        "remoteUrl": "http://127.0.0.1:4723",
+        "platform": "Android",
+        "Android": {
+            "platformName": "Android",
+            "platformVersion": "10",
+            "deviceName": "emulator-5554",
+            "appPackage": "com.wdiodemoapp",
+            "appActivity": "com.wdiodemoapp.MainActivity",
+            "automationName": "UIAutomator2",
+            "app": "",
+            "noReset": "false",
+            "fullReset": "true"
+        },
+        "iOS": {
+            "platformName": "iOS",
+            "platformVersion": "14.8.1",
+            "deviceName": "IPhone Xs Max",
+            "udid": "device-udid",
+            "newCommandTimeout": "0",
+            "automationName": "XCUITest",
+            "agentPath": "/usr/local/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgent.xcodeproj",
+            "bootstrapPath": "/usr/local/lib/node_modules/appium/node_modules/appium-webdriveragent",
+            "xcodeOrgId": "ZXBKKVAGZZ",
+            "xcodeSigningId": "iPhone Developer",
+            "app": "relative/path/to/app",
+            "noReset": "true",
+            "fullReset": "false",
+            "bundleId": ""
+        }
+    },
+    "browserstack": {
+        "platform": "iOS",
+        "username": "ngohoangty_FZpPco",
+        "accessKey": "C6nEK8WaZP8WxppBhSh2",
+        "remoteUrl": "https://%s:%s@hub.browserstack.com/wd/hub",
+        "android": {
+            "platformName": "Android",
+            "os_version": "13.0",
+            "device": "Google Pixel 7 Pro",
+            "newCommandTimeout": "0",
+            "automationName": "UIAutomator2",
+            "app": "bs://06edb8571a76d524f256c8438477308981cbe643",
+            "noReset": "false",
+            "fullReset": "false",
+            "project": "AppiumTest",
+            "build": "Test01",
+            "name": "WDIOTest"
+        },
+        "iOS": {
+            "platformName": "iOS",
+            "os_version": "14",
+            "device": "iPhone 11 Pro Max",
+            "newCommandTimeout": "0",
+            "automationName": "XCUITest",
+            "app": "bs://7edfd51b15df8a4f681f93794b4d3d531f56a504",
+            "noReset": "true",
+            "fullReset": "false",
+            "project": "Test",
+            "build": "Test",
+            "name": "TestTestTest"
+        }
+    }
+}

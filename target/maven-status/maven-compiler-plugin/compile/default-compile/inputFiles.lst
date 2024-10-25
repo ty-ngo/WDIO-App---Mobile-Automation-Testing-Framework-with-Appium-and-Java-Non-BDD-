@@ -1,0 +1,12 @@
+C:\Users\ty.ngohoang\Desktop\appium-test\appium-test\src\main\java\core\APIClient\APIClient.java
+C:\Users\ty.ngohoang\Desktop\appium-test\appium-test\src\main\java\core\AppiumDriver\DriverHelper.java
+C:\Users\ty.ngohoang\Desktop\appium-test\appium-test\src\main\java\core\AppiumDriver\DriverManager.java
+C:\Users\ty.ngohoang\Desktop\appium-test\appium-test\src\main\java\core\config\ConfigLoader.java
+C:\Users\ty.ngohoang\Desktop\appium-test\appium-test\src\main\java\core\constants\Constants.java
+C:\Users\ty.ngohoang\Desktop\appium-test\appium-test\src\main\java\core\element\Element.java
+C:\Users\ty.ngohoang\Desktop\appium-test\appium-test\src\main\java\core\enums\EnumObjects.java
+C:\Users\ty.ngohoang\Desktop\appium-test\appium-test\src\main\java\core\extensions\RestExtensions.java
+C:\Users\ty.ngohoang\Desktop\appium-test\appium-test\src\main\java\core\extensions\StringExtensions.java
+C:\Users\ty.ngohoang\Desktop\appium-test\appium-test\src\main\java\core\report\HtmlReportDirectory.java
+C:\Users\ty.ngohoang\Desktop\appium-test\appium-test\src\main\java\core\report\HtmlReporter.java
+C:\Users\ty.ngohoang\Desktop\appium-test\appium-test\src\main\java\core\utilities\DirectoryUtils.java

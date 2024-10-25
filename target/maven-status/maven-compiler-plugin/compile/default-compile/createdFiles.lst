@@ -1,0 +1,10 @@
+core\extensions\StringExtensions.class
+core\report\HtmlReporter.class
+core\AppiumDriver\DriverManager.class
+core\element\Element.class
+core\AppiumDriver\DriverHelper.class
+core\APIClient\APIClient.class
+core\report\HtmlReportDirectory.class
+core\utilities\DirectoryUtils.class
+core\config\ConfigLoader.class
+core\extensions\RestExtensions.class

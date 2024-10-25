@@ -1,0 +1,7 @@
+pages\BasePage.class
+pages\LoginPage.class
+tests\DragTest.class
+pages\HomePage.class
+tests\BaseTest.class
+pages\DragPage.class
+tests\LoginTest.class
