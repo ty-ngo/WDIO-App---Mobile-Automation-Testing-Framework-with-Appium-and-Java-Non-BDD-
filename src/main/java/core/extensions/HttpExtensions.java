@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-public class RestExtensions {
+public class HttpExtensions {
 
     private static final ObjectMapper objectMapper = new ObjectMapper();
 
