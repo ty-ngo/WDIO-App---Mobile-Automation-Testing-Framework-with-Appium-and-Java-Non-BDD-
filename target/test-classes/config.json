@@ -36,8 +36,8 @@
     },
     "browserstack": {
         "platform": "iOS",
-        "username": "ngohoangty_FZpPco",
-        "accessKey": "C6nEK8WaZP8WxppBhSh2",
+        "username": "",
+        "accessKey": "",
         "remoteUrl": "https://%s:%s@hub.browserstack.com/wd/hub",
         "android": {
             "platformName": "Android",

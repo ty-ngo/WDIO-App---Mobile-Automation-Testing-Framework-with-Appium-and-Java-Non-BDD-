@@ -58,8 +58,8 @@ public class DriverManager {
             case "browserstack" -> {
                 DesiredCapabilities capabilities = new DesiredCapabilities();
                 HashMap<String, Object> bstackOptions = new HashMap<>();
-                bstackOptions.put("userName", "ngohoangty_FZpPco");
-                bstackOptions.put("accessKey", "C6nEK8WaZP8WxppBhSh2");
+                bstackOptions.put("userName", "");
+                bstackOptions.put("accessKey", "");
                 bstackOptions.put("appiumVersion", "2.6.0");
                 capabilities.setCapability("platformName", "android");
                 capabilities.setCapability("appium:platformVersion", "14.0");
@@ -80,8 +80,8 @@ public class DriverManager {
                 caps.setCapability("appium:platformVersion", "12.0");
                 caps.setCapability("appium:automationName", "UiAutomator2");
                 MutableCapabilities sauceOptions = new MutableCapabilities();
-                sauceOptions.setCapability("username", "oauth-ngo.hoangty.sk3-8ec54");
-                sauceOptions.setCapability("accessKey", "a0d4b26e-1837-4873-82a5-b1e02f21a9cb");
+                sauceOptions.setCapability("username", "");
+                sauceOptions.setCapability("accessKey", "");
                 sauceOptions.setCapability("build", "appium-build-G3ENG");
                 sauceOptions.setCapability("name", "<your test name>");
                 sauceOptions.setCapability("deviceOrientation", "PORTRAIT");
